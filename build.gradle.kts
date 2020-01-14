@@ -1,7 +1,6 @@
 plugins {
     groovy
     `java-gradle-plugin`
-    `build-scan`
     org.gradle.playframework.`test-setup`
     org.gradle.playframework.`integration-test-fixtures`
     org.gradle.playframework.`integration-test`
